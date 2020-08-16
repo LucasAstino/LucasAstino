@@ -3,8 +3,6 @@
 ## FullStack-Developer
 :pray::blue_heart::man_technologist::milky_way::snowflake::video_game::notes::iphone::computer::cd::floppy_disk::electron::coffee:
 
-###### HTML5 | CSS3 | JavaScript | VScode| git | Python | Dart | Flutter
-
 </a>
   <a
     href="https://www.linkedin.com/in/lucas-astino-2b30061aa/" 
@@ -23,6 +21,12 @@
   >
     <img src="https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+
+
+
+###### HTML5 | CSS3 | JavaScript | VScode| git | Python | Dart | Flutter
+
+
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5"> 
   <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
