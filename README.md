@@ -5,6 +5,25 @@
 
 ###### HTML5 | CSS3 | JavaScript | VScode| git | Python | Dart | Flutter
 
+</a>
+  <a
+    href="https://www.linkedin.com/in/lucas-astino-2b30061aa/" 
+    alt="LinkedIn"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  
+
+  </a>
+  <a
+    href="https://mail.google.com/mail/u/2/#inbox" 
+    alt="Email"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5"> 
   <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
 </a>
